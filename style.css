@@ -1,0 +1,54 @@
+.sidebar {
+    width: 250px;
+    position: absolute;
+    position: fixed;
+}
+
+.main {
+    margin-left: 298px;
+    box-shadow: 2px 2px 2px grey;
+    font-size: 20px;
+}
+
+.menu {
+    background-color: white;
+    color: purple;
+    text-decoration: none;
+    line-height: 100px;
+    font-size: 35px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 3px purple;
+    text-shadow: 1px 1px black;
+    padding:15px;
+    
+}
+.menu:hover{
+    background-color: purple;
+    color:white;
+    font-size:50px;
+}
+.heading{
+    background-color: purple;
+    font-size: 5em;
+    text-align: center;
+    text-shadow: 3px 3px 2px whitesmoke;
+    box-shadow: 2px 2px 2px black;
+}
+.img{
+    margin-left: 350px;
+    width:400px;
+}
+.header{
+    font-size: 4em;
+    width: 900px;
+    border-bottom: 3px solid whitesmoke;
+    box-shadow: 0px 2px 2px purple;
+    text-shadow: 2px 2px 2px grey;
+    color: purple;
+}
+.lang{
+    width: 200px;
+}
+.lang:hover{
+    width:100px;
+}
